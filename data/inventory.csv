@@ -1,0 +1,7 @@
+notepad data\inventory.csv
+SKU,Item_Name,Category,Current_Stock,Avg_Monthly_Usage,Lead_Time_Months,Safety_Stock_Months
+C480C1,4Fr 80cm Cobra 1,Diagnostic Catheter,45,10,2,3
+C480PT,4Fr 80cm Pigtail,Diagnostic Catheter,12,15,2,3
+C5100ST,5Fr 100cm Straight,Diagnostic Catheter,60,12,1,3
+GW035,0.035 Guidewire 150cm,Guidewires,110,35,2,3
+BLNC20,NC Balloon 2.0mm x 15mm,Balloons,8,5,2,3
